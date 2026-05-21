@@ -9,9 +9,3 @@ Block Nested Loop (BNL),
 Bitmap,
 Index,
 Nearest Neighbour
-
-**Technologies Used-**
-Python, 
-Skyline Query Algorithms, 
-ElGamal Cryptography, 
-Mix-network Security
